@@ -1,4 +1,8 @@
-# React + Vite
+# React Conversions
+
+This is a currency converter app, built in react, which uses free API data for currency conversion.
+
+Live preview available at: [https://react-conversions.netlify.app/](https://react-conversions.netlify.app/)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
